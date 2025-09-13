@@ -1,0 +1,23 @@
+State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
+NY,Stony Brook University (SUNY),Stony Brook,11794,"27,000",Suffolk County commercial property tax ~3.5%. Accessible via LIRR.
+NY,University at Buffalo (SUNY),Buffalo,14260,"32,000",Erie County commercial property tax ~3.2%. Accessible via NFTA.
+NY,Binghamton University (SUNY),Binghamton,13902,"18,000",Broome County commercial property tax ~3.1%. Accessible via BC Transit.
+NY,University at Albany (SUNY),Albany,12222,"17,000",Albany County commercial property tax ~2.8%. Accessible via CDTA.
+NY,Hunter College (CUNY),New York,10065,"24,000",New York County commercial property tax ~4.0%. Accessible via MTA.
+NY,Queens College (CUNY),Queens,11367,"19,000",Queens County commercial property tax ~3.8%. Accessible via MTA.
+NY,Brooklyn College (CUNY),Brooklyn,11210,"17,000",Kings County commercial property tax ~3.8%. Accessible via MTA.
+NY,City College of New York (CUNY),New York,10031,"16,000",New York County commercial property tax ~4.0%. Accessible via MTA.
+NY,Baruch College (CUNY),New York,10010,"20,000",New York County commercial property tax ~4.0%. Accessible via MTA.
+NY,SUNY New Paltz,New Paltz,12561,"7,500",Ulster County commercial property tax ~2.9%. Accessible via UCAT.
+NY,SUNY Oneonta,Oneonta,13820,"6,000",Otsego County commercial property tax ~2.7%. Accessible via OPT.
+NY,SUNY Geneseo,Geneseo,14454,"5,000",Livingston County commercial property tax ~2.8%. Accessible via RGRTA.
+NY,SUNY Cortland,Cortland,13045,"7,000",Cortland County commercial property tax ~2.9%. Accessible via Cortland Transit.
+NY,SUNY Oswego,Oswego,13126,"7,500",Oswego County commercial property tax ~3.0%. Accessible via Centro.
+NY,SUNY Plattsburgh,Plattsburgh,12901,"5,000",Clinton County commercial property tax ~2.6%. Accessible via CCT.
+NY,SUNY Potsdam,Potsdam,13676,"3,000",St. Lawrence County commercial property tax ~2.8%. Limited public transit.
+NY,SUNY Fredonia,Fredonia,14063,"4,000",Chautauqua County commercial property tax ~3.1%. Accessible via CARTS.
+NY,Buffalo State College (SUNY),Buffalo,14222,"8,000",Erie County commercial property tax ~3.2%. Accessible via NFTA.
+NY,SUNY Brockport,Brockport,14420,"7,500",Monroe County commercial property tax ~3.0%. Accessible via RTS.
+NY,SUNY Old Westbury,Old Westbury,11568,"5,000",Nassau County commercial property tax ~2.5%. Accessible via NICE.
+NY,Purchase College (SUNY),Purchase,10577,"4,000",Westchester County commercial property tax ~2.6%. Accessible via Bee-Line.
+NY,SUNY Maritime College,Bronx,10465,"1,800",Bronx County commercial property tax ~3.9%. Accessible via MTA.
