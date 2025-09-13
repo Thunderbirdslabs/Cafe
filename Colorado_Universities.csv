@@ -1,0 +1,13 @@
+State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
+CO,University of Colorado Boulder,Boulder,80309,"37,000","Boulder County commercial property tax ~1.3%. Accessible via RTD."
+CO,University of Colorado Colorado Springs,Colorado Springs,80918,"12,000","El Paso County commercial property tax ~1.3%. Accessible via Mountain Metro."
+CO,University of Colorado Denver,Denver,80204,"15,000","Denver County commercial property tax ~1.3%. Accessible via RTD Light Rail."
+CO,Colorado State University,Fort Collins,80523,"34,000","Larimer County commercial property tax ~1.2%. Accessible via Transfort."
+CO,Metropolitan State University of Denver,Denver,80204,"19,000","Denver County commercial property tax ~1.3%. Accessible via RTD Light Rail."
+CO,University of Northern Colorado,Greeley,80639,"11,000","Weld County commercial property tax ~1.2%. Accessible via GET."
+CO,Colorado School of Mines,Golden,80401,"7,000","Jefferson County commercial property tax ~1.2%. Accessible via RTD."
+CO,Fort Lewis College,Durango,81301,"3,500","La Plata County commercial property tax ~0.8%. Accessible via Durango Transit."
+CO,Western Colorado University,Gunnison,81231,"3,000","Gunnison County commercial property tax ~0.8%. Accessible via RTA."
+CO,Adams State University,Alamosa,81101,"3,000","Alamosa County commercial property tax ~0.9%. Limited public transit."
+CO,Colorado Mesa University,Grand Junction,81501,"11,000","Mesa County commercial property tax ~0.9%. Accessible via GVT."
+CO,CSU Pueblo,Pueblo,81001,"4,000","Pueblo County commercial property tax ~1.0%. Accessible via Pueblo Transit."

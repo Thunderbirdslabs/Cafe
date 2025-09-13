@@ -1,0 +1,13 @@
+State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
+IN,Purdue University,West Lafayette,47907,"50,000","Tippecanoe County commercial property tax ~1.0%. Accessible via CityBus."
+IN,Indiana University Bloomington,Bloomington,47405,"47,000","Monroe County commercial property tax ~1.1%. Accessible via Bloomington Transit."
+IN,Ball State University,Muncie,47306,"21,000","Delaware County commercial property tax ~1.2%. Accessible via MITS."
+IN,Indiana University-Purdue University Indianapolis (IUPUI),Indianapolis,46202,"29,000","Marion County commercial property tax ~1.5%. Accessible via IndyGo."
+IN,Indiana State University,Terre Haute,47809,"10,000","Vigo County commercial property tax ~1.3%. Accessible via Terre Haute Transit."
+IN,University of Southern Indiana,Evansville,47712,"9,000","Vanderburgh County commercial property tax ~1.2%. Accessible via METS."
+IN,Purdue University Fort Wayne,Fort Wayne,46805,"10,000","Allen County commercial property tax ~1.3%. Accessible via Citilink."
+IN,Indiana University Northwest,Gary,46408,"4,000","Lake County commercial property tax ~1.6%. Accessible via GPTC."
+IN,Indiana University South Bend,South Bend,46634,"5,000","St. Joseph County commercial property tax ~1.4%. Accessible via Transpo."
+IN,Indiana University Southeast,New Albany,47150,"4,000","Floyd County commercial property tax ~1.2%. Accessible via TARC."
+IN,Indiana University East,Richmond,47374,"3,000","Wayne County commercial property tax ~1.2%. Accessible via Rose View Transit."
+IN,Indiana University Kokomo,Kokomo,46904,"3,000","Howard County commercial property tax ~1.3%. Accessible via Kokomo City Line."
