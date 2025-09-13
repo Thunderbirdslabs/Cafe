@@ -1,20 +1,20 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-TX,Texas A&M University,College Station,77843,"73,000",Brazos County commercial property tax ~1.8%. Accessible via The Bus.
-TX,The University of Texas at Austin,Austin,78712,"52,000",Travis County commercial property tax ~2.0%. Accessible via CapMetro.
-TX,University of Houston,Houston,77204,"47,000",Harris County commercial property tax ~2.2%. Accessible via METRO.
-TX,The University of Texas at Arlington,Arlington,76019,"48,000",Tarrant County commercial property tax ~2.1%. Accessible via Arlington Transit.
-TX,University of North Texas,Denton,76203,"42,000",Denton County commercial property tax ~1.9%. Accessible via DCTA.
-TX,Texas State University,San Marcos,78666,"38,000",Hays County commercial property tax ~1.9%. Accessible via The Bus.
-TX,The University of Texas at Dallas,Richardson,75080,"31,000",Dallas County commercial property tax ~2.2%. Accessible via DART.
-TX,The University of Texas at San Antonio,San Antonio,78249,"34,000",Bexar County commercial property tax ~2.0%. Accessible via VIA.
-TX,Texas Tech University,Lubbock,79409,"40,000",Lubbock County commercial property tax ~1.8%. Accessible via Citibus.
-TX,The University of Texas at El Paso,El Paso,79968,"25,000",El Paso County commercial property tax ~2.3%. Accessible via Sun Metro.
-TX,Sam Houston State University,Huntsville,77341,"21,000",Walker County commercial property tax ~1.7%. Accessible via Huntsville Shuttle.
-TX,Stephen F. Austin State University,Nacogdoches,75962,"12,000",Nacogdoches County commercial property tax ~1.6%. Limited public transit.
-TX,Texas Woman's University,Denton,76204,"16,000",Denton County commercial property tax ~1.9%. Accessible via DCTA.
-TX,Prairie View A&M University,Prairie View,77446,"9,500",Waller County commercial property tax ~2.0%. Limited public transit.
-TX,Tarleton State University,Stephenville,76402,"14,000",Erath County commercial property tax ~1.7%. Accessible via The Shuttle.
-TX,West Texas A&M University,Canyon,79016,"10,000",Randall County commercial property tax ~1.7%. Limited public transit.
-TX,Texas A&M University-Corpus Christi,Corpus Christi,78412,"11,000",Nueces County commercial property tax ~2.1%. Accessible via CCRTA.
-TX,Texas Southern University,Houston,77004,"9,000",Harris County commercial property tax ~2.2%. Accessible via METRO.
-TX,Lamar University,Beaumont,77710,"17,000",Jefferson County commercial property tax ~2.3%. Accessible via Beaumont Municipal Transit.
+State,University Name,City,ZIP Code,Surrounding ZIPs (5-mile radius),Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
+TX,Texas A&M University,College Station,77843,"77801, 77802, 77803, 77807, 77808, 77840, 77843, 77845",73000,Brazos County commercial property tax ~1.8%. Accessible via The Bus.
+TX,The University of Texas at Austin,Austin,78712,"78701, 78703, 78705, 78712, 78722, 78751, 78756",52000,Travis County commercial property tax ~2.0%. Accessible via CapMetro.
+TX,University of Houston,Houston,77204,"77003, 77004, 77021, 77023, 77033, 77204",47000,Harris County commercial property tax ~2.2%. Accessible via METRO.
+TX,The University of Texas at Arlington,Arlington,76019,"76006, 76010, 76011, 76012, 76013, 76019",48000,Tarrant County commercial property tax ~2.1%. Accessible via Arlington Transit.
+TX,University of North Texas,Denton,76203,"76201, 76203, 76205, 76207, 76208, 76209, 76210",42000,Denton County commercial property tax ~1.9%. Accessible via DCTA.
+TX,Texas State University,San Marcos,78666,"78666, 78667",38000,Hays County commercial property tax ~1.9%. Accessible via The Bus.
+TX,The University of Texas at Dallas,Richardson,75080,"75080, 75081, 75082",31000,Dallas County commercial property tax ~2.2%. Accessible via DART.
+TX,The University of Texas at San Antonio,San Antonio,78249,"78230, 78240, 78249, 78256, 78257",34000,Bexar County commercial property tax ~2.0%. Accessible via VIA.
+TX,Texas Tech University,Lubbock,79409,"79401, 79407, 79409, 79410, 79411, 79412, 79413, 79414, 79415, 79416, 79424",40000,Lubbock County commercial property tax ~1.8%. Accessible via Citibus.
+TX,The University of Texas at El Paso,El Paso,79968,"79902, 79903, 79905, 79912, 79922, 79930, 79968",25000,El Paso County commercial property tax ~2.3%. Accessible via Sun Metro.
+TX,Sam Houston State University,Huntsville,77341,"77320, 77340, 77341",21000,Walker County commercial property tax ~1.7%. Accessible via Huntsville Shuttle.
+TX,Stephen F. Austin State University,Nacogdoches,75962,"75961, 75962, 75964, 75965",12000,Nacogdoches County commercial property tax ~1.6%. Limited public transit.
+TX,Texas Woman's University,Denton,76204,"76201, 76204, 76205, 76208, 76209, 76210",16000,Denton County commercial property tax ~1.9%. Accessible via DCTA.
+TX,Prairie View A&M University,Prairie View,77446,"77445, 77446",9500,Waller County commercial property tax ~2.0%. Limited public transit.
+TX,Tarleton State University,Stephenville,76402,"76401, 76402",14000,Erath County commercial property tax ~1.7%. Accessible via The Shuttle.
+TX,West Texas A&M University,Canyon,79016,"79015, 79016",10000,Randall County commercial property tax ~1.7%. Limited public transit.
+TX,Texas A&M University-Corpus Christi,Corpus Christi,78412,"78411, 78412, 78413, 78414, 78415, 78418",11000,Nueces County commercial property tax ~2.1%. Accessible via CCRTA.
+TX,Texas Southern University,Houston,77004,"77002, 77004, 77006, 77021, 77030, 77054",9000,Harris County commercial property tax ~2.2%. Accessible via METRO.
+TX,Lamar University,Beaumont,77710,"77701, 77702, 77703, 77705, 77706, 77707, 77710",17000,Jefferson County commercial property tax ~2.3%. Accessible via Beaumont Municipal Transit.

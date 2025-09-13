@@ -1,14 +1,14 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-OH,Ohio State University,Columbus,43210,"60,000",Franklin County commercial property tax ~2.5%. Accessible via COTA.
-OH,University of Cincinnati,Cincinnati,45221,"47,000",Hamilton County commercial property tax ~2.8%. Accessible via SORTA.
-OH,Kent State University,Kent,44242,"34,000",Portage County commercial property tax ~2.2%. Accessible via PARTA.
-OH,Ohio University,Athens,45701,"28,000",Athens County commercial property tax ~2.0%. Accessible via Athens Public Transit.
-OH,University of Akron,Akron,44325,"17,000",Summit County commercial property tax ~2.4%. Accessible via METRO RTA.
-OH,University of Toledo,Toledo,43606,"18,000",Lucas County commercial property tax ~2.6%. Accessible via TARTA.
-OH,Bowling Green State University,Bowling Green,43403,"19,000",Wood County commercial property tax ~2.1%. Accessible via BG Transit.
-OH,Wright State University,Dayton,45435,"12,000",Greene County commercial property tax ~2.3%. Accessible via RTA.
-OH,Cleveland State University,Cleveland,44115,"16,000",Cuyahoga County commercial property tax ~3.0%. Accessible via RTA.
-OH,Miami University,Oxford,45056,"19,000",Butler County commercial property tax ~2.2%. Accessible via BCRTA.
-OH,Youngstown State University,Youngstown,44555,"12,000",Mahoning County commercial property tax ~2.5%. Accessible via WRTA.
-OH,Shawnee State University,Portsmouth,45662,"3,500",Scioto County commercial property tax ~2.1%. Accessible via Access Scioto County.
-OH,Central State University,Wilberforce,45384,"3,500",Greene County commercial property tax ~2.3%. Accessible via Greene CATS.
+State,University Name,City,ZIP Code,Surrounding ZIPs (5-mile radius),Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
+OH,Ohio State University,Columbus,43210,"43085, 43201, 43202, 43210, 43211, 43212, 43214, 43215, 43220, 43221, 43224, 43229",60000,Franklin County commercial property tax ~2.5%. Accessible via COTA.
+OH,University of Cincinnati,Cincinnati,45221,"45202, 45206, 45207, 45219, 45220, 45221, 45223, 45225, 45229",47000,Hamilton County commercial property tax ~2.8%. Accessible via SORTA.
+OH,Kent State University,Kent,44242,"44224, 44240, 44242, 44243, 44266",34000,Portage County commercial property tax ~2.2%. Accessible via PARTA.
+OH,Ohio University,Athens,45701,"45701",28000,Athens County commercial property tax ~2.0%. Accessible via Athens Public Transit.
+OH,University of Akron,Akron,44325,"44302, 44303, 44304, 44308, 44310, 44311, 44325",17000,Summit County commercial property tax ~2.4%. Accessible via METRO RTA.
+OH,University of Toledo,Toledo,43606,"43606, 43607, 43613, 43614, 43615, 43623",18000,Lucas County commercial property tax ~2.6%. Accessible via TARTA.
+OH,Bowling Green State University,Bowling Green,43403,"43402, 43403",19000,Wood County commercial property tax ~2.1%. Accessible via BG Transit.
+OH,Wright State University,Dayton,45435,"45324, 45431, 45432, 45433, 45434, 45435",12000,Greene County commercial property tax ~2.3%. Accessible via RTA.
+OH,Cleveland State University,Cleveland,44115,"44102, 44103, 44104, 44105, 44106, 44113, 44114, 44115, 44127",16000,Cuyahoga County commercial property tax ~3.0%. Accessible via RTA.
+OH,Miami University,Oxford,45056,"45056",19000,Butler County commercial property tax ~2.2%. Accessible via BCRTA.
+OH,Youngstown State University,Youngstown,44555,"44502, 44503, 44504, 44505, 44506, 44509, 44510, 44555",12000,Mahoning County commercial property tax ~2.5%. Accessible via WRTA.
+OH,Shawnee State University,Portsmouth,45662,"45662, 45663",3500,Scioto County commercial property tax ~2.1%. Accessible via Access Scioto County.
+OH,Central State University,Wilberforce,45384,"45384, 45385, 45387",3500,Greene County commercial property tax ~2.3%. Accessible via Greene CATS.

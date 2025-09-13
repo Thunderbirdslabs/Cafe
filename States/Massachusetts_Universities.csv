@@ -1,14 +1,14 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-MA,University of Massachusetts Amherst,Amherst,01003,"32,000",Hampshire County commercial property tax ~1.5%. Accessible via PVTA.
-MA,University of Massachusetts Boston,Boston,02125,"16,000",Suffolk County commercial property tax ~2.5%. Accessible via MBTA.
-MA,University of Massachusetts Dartmouth,Dartmouth,02747,"8,500",Bristol County commercial property tax ~1.7%. Accessible via SRTA.
-MA,University of Massachusetts Lowell,Lowell,01854,"18,000",Middlesex County commercial property tax ~1.9%. Accessible via LRTA.
-MA,Bridgewater State University,Bridgewater,02325,"10,000",Plymouth County commercial property tax ~1.6%. Accessible via BAT.
-MA,Fitchburg State University,Fitchburg,01420,"7,000",Worcester County commercial property tax ~1.8%. Accessible via MART.
-MA,Framingham State University,Framingham,01701,"6,500",Middlesex County commercial property tax ~1.9%. Accessible via MWRTA.
-MA,Salem State University,Salem,01970,"7,000",Essex County commercial property tax ~1.7%. Accessible via MBTA.
-MA,Westfield State University,Westfield,01086,"6,000",Hampden County commercial property tax ~1.8%. Accessible via PVTA.
-MA,Worcester State University,Worcester,01602,"6,000",Worcester County commercial property tax ~1.8%. Accessible via WRTA.
-MA,Massachusetts College of Art and Design,Boston,02115,"2,000",Suffolk County commercial property tax ~2.5%. Accessible via MBTA.
-MA,Massachusetts College of Liberal Arts,North Adams,01247,"1,500",Berkshire County commercial property tax ~1.6%. Accessible via BRTA.
-MA,Massachusetts Maritime Academy,Buzzards Bay,02532,"1,500",Barnstable County commercial property tax ~1.2%. Limited public transit.
+State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.),Surrounding ZIPs (5-mile radius)
+MA,University of Massachusetts Amherst,Amherst,01003,"32,000",Hampshire County commercial property tax ~1.5%. Accessible via PVTA.,"01002, 01035, 01059, 01075"
+MA,University of Massachusetts Boston,Boston,02125,"16,000",Suffolk County commercial property tax ~2.5%. Accessible via MBTA.,"02118, 02119, 02121, 02122, 02124, 02127, 02184, 02186"
+MA,University of Massachusetts Dartmouth,Dartmouth,02747,"8,500",Bristol County commercial property tax ~1.7%. Accessible via SRTA.,"02714, 02740, 02745, 02746"
+MA,University of Massachusetts Lowell,Lowell,01854,"18,000",Middlesex County commercial property tax ~1.9%. Accessible via LRTA.,"01821, 01824, 01826, 01850, 01851, 01852"
+MA,Bridgewater State University,Bridgewater,02325,"10,000",Plymouth County commercial property tax ~1.6%. Accessible via BAT.,"02324"
+MA,Fitchburg State University,Fitchburg,01420,"7,000",Worcester County commercial property tax ~1.8%. Accessible via MART.,"01453, 01462"
+MA,Framingham State University,Framingham,01701,"6,500",Middlesex County commercial property tax ~1.9%. Accessible via MWRTA.,"01702, 01703, 01704, 01705, 01721, 01742, 01752, 01760, 01770, 01772, 01776, 01778"
+MA,Salem State University,Salem,01970,"7,000",Essex County commercial property tax ~1.7%. Accessible via MBTA.,"01915, 01923, 01940, 01944, 01945, 01960"
+MA,Westfield State University,Westfield,01086,"6,000",Hampden County commercial property tax ~1.8%. Accessible via PVTA.,"01085"
+MA,Worcester State University,Worcester,01602,"6,000",Worcester County commercial property tax ~1.8%. Accessible via WRTA.,""
+MA,Massachusetts College of Art and Design,Boston,02115,"2,000",Suffolk County commercial property tax ~2.5%. Accessible via MBTA.,""
+MA,Massachusetts College of Liberal Arts,North Adams,01247,"1,500",Berkshire County commercial property tax ~1.6%. Accessible via BRTA.,"01220, 01267"
+MA,Massachusetts Maritime Academy,Buzzards Bay,02532,"1,500",Barnstable County commercial property tax ~1.2%. Limited public transit.,"02534, 02536, 02553, 02556, 02571"

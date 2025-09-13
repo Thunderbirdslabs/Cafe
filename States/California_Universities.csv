@@ -1,34 +1,34 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-CA,University of California, Berkeley,Berkeley,94720,"45,000",Alameda County commercial property tax ~1.1%. Accessible via BART.
-CA,University of California, Davis,Davis,95616,"40,000","Yolo County commercial property tax ~1.1%. Accessible via Amtrak, Unitrans."
-CA,University of California, Irvine,Irvine,92697,"37,000",Orange County commercial property tax ~1.0%. Accessible via OCTA.
-CA,University of California, Los Angeles,Los Angeles,90095,"46,000",Los Angeles County commercial property tax ~1.2%. Accessible via LA Metro.
-CA,University of California, Merced,Merced,95343,"9,000",Merced County commercial property tax ~1.1%. Accessible via The Bus.
-CA,University of California, Riverside,Riverside,92521,"27,000",Riverside County commercial property tax ~1.1%. Accessible via RTA.
-CA,University of California, San Diego,San Diego,92093,"42,000",San Diego County commercial property tax ~1.1%. Accessible via MTS Trolley.
-CA,University of California, San Francisco,San Francisco,94143,"3,000",San Francisco County commercial property tax ~1.2%. Accessible via Muni Metro. (Primarily graduate/professional).
-CA,University of California, Santa Barbara,Santa Barbara,93106,"26,000",Santa Barbara County commercial property tax ~1.1%. Accessible via MTD.
-CA,University of California, Santa Cruz,Santa Cruz,95064,"19,000",Santa Cruz County commercial property tax ~1.1%. Accessible via Santa Cruz METRO.
-CA,California State University, Bakersfield,Bakersfield,93311,"11,000",Kern County commercial property tax ~1.1%. Accessible via Golden Empire Transit.
-CA,California State University, Channel Islands,Camarillo,93012,"7,000",Ventura County commercial property tax ~1.1%. Accessible via VCTC.
-CA,California State University, Chico,Chico,95929,"16,000",Butte County commercial property tax ~1.0%. Accessible via B-Line.
-CA,California State University, Dominguez Hills,Carson,90747,"17,000",Los Angeles County commercial property tax ~1.2%. Accessible via LA Metro.
-CA,California State University, East Bay,Hayward,94542,"15,000","Alameda County commercial property tax ~1.1%. Accessible via AC Transit, BART."
-CA,California State University, Fresno,Fresno,93740,"25,000",Fresno County commercial property tax ~1.2%. Accessible via FAX.
-CA,California State University, Fullerton,Fullerton,92831,"40,000",Orange County commercial property tax ~1.0%. Accessible via OCTA.
-CA,California State University, Long Beach,Long Beach,90840,"39,000",Los Angeles County commercial property tax ~1.2%. Accessible via Long Beach Transit.
-CA,California State University, Los Angeles,Los Angeles,90032,"27,000",Los Angeles County commercial property tax ~1.2%. Accessible via LA Metro.
-CA,California State University, Maritime Academy,Vallejo,94590,"1,000",Solano County commercial property tax ~1.2%. Specialized focus.
-CA,California State University, Monterey Bay,Seaside,93955,"7,000",Monterey County commercial property tax ~1.0%. Accessible via MST.
-CA,California State University, Northridge,Northridge,91330,"39,000",Los Angeles County commercial property tax ~1.2%. Accessible via LA Metro.
-CA,California State University, Sacramento,Sacramento,95819,"31,000",Sacramento County commercial property tax ~1.2%. Accessible via SacRT Light Rail.
-CA,California State University, San Bernardino,San Bernardino,92407,"20,000",San Bernardino County commercial property tax ~1.1%. Accessible via Omnitrans.
-CA,California State University, San Marcos,San Marcos,92096,"16,000",San Diego County commercial property tax ~1.1%. Accessible via NCTD Sprinter.
-CA,California State University, Stanislaus,Turlock,95382,"10,000",Stanislaus County commercial property tax ~1.1%. Accessible via The Bus.
-CA,San Diego State University,San Diego,92182,"36,000",San Diego County commercial property tax ~1.1%. Accessible via MTS Trolley.
-CA,San Francisco State University,San Francisco,94132,"29,000",San Francisco County commercial property tax ~1.2%. Accessible via Muni Metro.
-CA,San José State University,San José,95192,"35,000",Santa Clara County commercial property tax ~1.0%. Accessible via VTA Light Rail.
-CA,California Polytechnic State University, San Luis Obispo,San Luis Obispo,93407,"22,000",San Luis Obispo County commercial property tax ~1.0%. Accessible via SLORTA.
-CA,California State Polytechnic University, Pomona,Pomona,91768,"29,000",Los Angeles County commercial property tax ~1.2%. Accessible via Foothill Transit.
-CA,Sonoma State University,Rohnert Park,94928,"9,000",Sonoma County commercial property tax ~1.1%. Accessible via Sonoma County Transit.
-CA,Humboldt State University,Arcata,95521,"7,000",Humboldt County commercial property tax ~1.0%. Accessible via A&MRTS.
+State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.),Surrounding ZIPs (5-mile radius)
+CA,University of California, Berkeley,Berkeley,94720,"45,000",Alameda County commercial property tax ~1.1%. Accessible via BART.,"94702, 94703, 94704, 94705, 94706, 94707, 94708, 94709, 94710, 94608, 94609, 94611, 94618"
+CA,University of California, Davis,Davis,95616,"40,000","Yolo County commercial property tax ~1.1%. Accessible via Amtrak, Unitrans.","95617, 95618, 95691, 95776"
+CA,University of California, Irvine,Irvine,92697,"37,000",Orange County commercial property tax ~1.0%. Accessible via OCTA.,"92602, 92603, 92604, 92606, 92612, 92614, 92617, 92618, 92620, 92630, 92650, 92709, 92710"
+CA,University of California, Los Angeles,Los Angeles,90095,"46,000",Los Angeles County commercial property tax ~1.2%. Accessible via LA Metro.,"90024, 90025, 90049, 90064, 90067, 90073, 90077, 90210, 90212"
+CA,University of California, Merced,Merced,95343,"9,000",Merced County commercial property tax ~1.1%. Accessible via The Bus.,"95340, 95341, 95344, 95348"
+CA,University of California, Riverside,Riverside,92521,"27,000",Riverside County commercial property tax ~1.1%. Accessible via RTA.,"92501, 92502, 92503, 92504, 92505, 92506, 92507, 92508, 92509, 92513, 92514, 92515, 92516, 92517, 92519, 92522"
+CA,University of California, San Diego,San Diego,92093,"42,000",San Diego County commercial property tax ~1.1%. Accessible via MTS Trolley.,"92014, 92037, 92038, 92039, 92092, 92109, 92111, 92117, 92121, 92122, 92126"
+CA,University of California, San Francisco,San Francisco,94143,"3,000",San Francisco County commercial property tax ~1.2%. Accessible via Muni Metro. (Primarily graduate/professional).,"94102, 94103, 94104, 94105, 94107, 94108, 94109, 94110, 94111, 94112, 94114, 94115, 94116, 94117, 94118, 94121, 94122, 94123, 94124, 94127, 94129, 94130, 94131, 94132, 94133, 94134, 94158"
+CA,University of California, Santa Barbara,Santa Barbara,93106,"26,000",Santa Barbara County commercial property tax ~1.1%. Accessible via MTD.,"93101, 93105, 93107, 93109, 93110, 93111, 93117"
+CA,University of California, Santa Cruz,Santa Cruz,95064,"19,000",Santa Cruz County commercial property tax ~1.1%. Accessible via Santa Cruz METRO.,"95060, 95061, 95062, 95063, 95065, 95066, 95067"
+CA,California State University, Bakersfield,Bakersfield,93311,"11,000",Kern County commercial property tax ~1.1%. Accessible via Golden Empire Transit.,"93301, 93302, 93303, 93304, 93305, 93306, 93307, 93308, 93309, 93312, 93313, 93314, 93380, 93381, 93382, 93383, 93384, 93385, 93386, 93387, 93388, 93389, 93390"
+CA,California State University, Channel Islands,Camarillo,93012,"7,000",Ventura County commercial property tax ~1.1%. Accessible via VCTC.,"93010, 93011"
+CA,California State University, Chico,Chico,95929,"16,000",Butte County commercial property tax ~1.0%. Accessible via B-Line.,"95926, 95927, 95928, 95973, 95976"
+CA,California State University, Dominguez Hills,Carson,90747,"17,000",Los Angeles County commercial property tax ~1.2%. Accessible via LA Metro.,"90220, 90247, 90248, 90249, 90710, 90744, 90745, 90746, 90749, 90810"
+CA,California State University, East Bay,Hayward,94542,"15,000","Alameda County commercial property tax ~1.1%. Accessible via AC Transit, BART.","94540, 94541, 94544, 94545, 94546, 94552, 94557, 94577, 94578, 94580, 94587"
+CA,California State University, Fresno,Fresno,93740,"25,000",Fresno County commercial property tax ~1.2%. Accessible via FAX.,"93701, 93702, 93703, 93704, 93705, 93706, 93710, 93711, 93720, 93721, 93722, 93725, 93726, 93727, 93728, 93730, 93750, 93755, 93760, 93761, 93764, 93765, 93771, 93772, 93773, 93774, 93775, 93776, 93777, 93778, 93779, 93780, 93784, 93786, 93790, 93791, 93792, 93793, 93794, 93844, 93888"
+CA,California State University, Fullerton,Fullerton,92831,"40,000",Orange County commercial property tax ~1.0%. Accessible via OCTA.,"92832, 92833, 92834, 92835, 92836, 92837, 92838"
+CA,California State University, Long Beach,Long Beach,90840,"39,000",Los Angeles County commercial property tax ~1.2%. Accessible via Long Beach Transit.,"90802, 90803, 90804, 90805, 90806, 90807, 90808, 90810, 90813, 90814, 90815, 90822, 90831, 90832, 90833, 90834, 90835, 90842, 90844, 90845, 90846, 90847, 90848, 90853, 90895, 90899"
+CA,California State University, Los Angeles,Los Angeles,90032,"27,000",Los Angeles County commercial property tax ~1.2%. Accessible via LA Metro.,"90022, 90023, 90031, 90033, 90041, 90042, 90063, 90065, 91801, 91803"
+CA,California State University, Maritime Academy,Vallejo,94590,"1,000",Solano County commercial property tax ~1.2%. Specialized focus.,"94589, 94591, 94592"
+CA,California State University, Monterey Bay,Seaside,93955,"7,000",Monterey County commercial property tax ~1.0%. Accessible via MST.,"93933, 93940, 93942, 93943, 93944, 93950"
+CA,California State University, Northridge,Northridge,91330,"39,000",Los Angeles County commercial property tax ~1.2%. Accessible via LA Metro.,"91324, 91325, 91326, 91327, 91328, 91329, 91331, 91333, 91334, 91335, 91337, 91342, 91343, 91344, 91345, 91346, 91352, 91353, 91356, 91357, 91364, 91365, 91367, 91371, 91372, 91376, 91392, 91393, 91394, 91395, 91396, 91399"
+CA,California State University, Sacramento,Sacramento,95819,"31,000",Sacramento County commercial property tax ~1.2%. Accessible via SacRT Light Rail.,"95815, 95816, 95817, 95818, 95820, 95821, 95822, 95823, 95824, 95825, 95826, 95828, 95829, 95830, 95831, 95832, 95833, 95834, 95835, 95836, 95837, 95838, 95840, 95841, 95842, 95843, 95851, 95852, 95853, 95857, 95860, 95864, 95865, 95866, 95867, 95873, 95887, 95891, 95894, 95899"
+CA,California State University, San Bernardino,San Bernardino,92407,"20,000",San Bernardino County commercial property tax ~1.1%. Accessible via Omnitrans.,"92401, 92402, 92403, 92404, 92405, 92406, 92408, 92410, 92411, 92412, 92413, 92414, 92415, 92418, 92423, 92424, 92427"
+CA,California State University, San Marcos,San Marcos,92096,"16,000",San Diego County commercial property tax ~1.1%. Accessible via NCTD Sprinter.,"92025, 92026, 92027, 92029, 92069, 92078, 92079, 92081, 92083, 92084"
+CA,California State University, Stanislaus,Turlock,95382,"10,000",Stanislaus County commercial property tax ~1.1%. Accessible via The Bus.,"95380, 95381"
+CA,San Diego State University,San Diego,92182,"36,000",San Diego County commercial property tax ~1.1%. Accessible via MTS Trolley.,"92101, 92102, 92103, 92104, 92105, 92106, 92107, 92108, 92109, 92110, 92111, 92113, 92114, 92115, 92116, 92117, 92119, 92120, 92121, 92122, 92123, 92124, 92126, 92127, 92128, 92129, 92130, 92131, 92132, 92134, 92135, 92136, 92137, 92138, 92139, 92140, 92142, 92143, 92145, 92147, 92149, 92150, 92152, 92153, 92154, 92155, 92158, 92159, 92160, 92161, 92162, 92163, 92164, 92165, 92166, 92167, 92168, 92169, 92170, 92171, 92172, 92174, 92175, 92176, 92177, 92179, 92184, 92186, 92187, 92190, 92191, 92192, 92193, 92194, 92195, 92196, 92197, 92198, 92199"
+CA,San Francisco State University,San Francisco,94132,"29,000",San Francisco County commercial property tax ~1.2%. Accessible via Muni Metro.,"94102, 94103, 94104, 94105, 94107, 94108, 94109, 94110, 94111, 94112, 94114, 94115, 94116, 94117, 94118, 94121, 94122, 94123, 94124, 94127, 94129, 94130, 94131, 94133, 94134, 94158"
+CA,San José State University,San José,95192,"35,000",Santa Clara County commercial property tax ~1.0%. Accessible via VTA Light Rail.,"95101, 95103, 95106, 95108, 95109, 95110, 95111, 95112, 95113, 95115, 95116, 95117, 95118, 95119, 95120, 95121, 95122, 95123, 95124, 95125, 95126, 95127, 95128, 95129, 95130, 95131, 95132, 95133, 95134, 95135, 95136, 95138, 95139, 95141, 95148, 95150, 95151, 95152, 95153, 95154, 95155, 95156, 95157, 95158, 95159, 95160, 95161, 95164, 95170, 95172, 95173"
+CA,California Polytechnic State University, San Luis Obispo,San Luis Obispo,93407,"22,000",San Luis Obispo County commercial property tax ~1.0%. Accessible via SLORTA.,"93401, 93402, 93403, 93405, 93406, 93408, 93409, 93410, 93412"
+CA,California State Polytechnic University, Pomona,Pomona,91768,"29,000",Los Angeles County commercial property tax ~1.2%. Accessible via Foothill Transit.,"91765, 91766, 91767, 91769, 91788, 91789, 91790, 91791, 91792, 91793"
+CA,Sonoma State University,Rohnert Park,94928,"9,000",Sonoma County commercial property tax ~1.1%. Accessible via Sonoma County Transit.,"94926, 94927, 94931, 94951, 94952, 94953, 94954, 94955, 94975, 94999"
+CA,Humboldt State University,Arcata,95521,"7,000",Humboldt County commercial property tax ~1.0%. Accessible via A&MRTS.,"95501, 95502, 95503, 95518, 95524"

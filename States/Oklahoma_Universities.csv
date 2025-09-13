@@ -1,14 +1,14 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-OK,University of Oklahoma,Norman,73019,"28,000",Cleveland County commercial property tax ~1.3%. Accessible via CART.
-OK,Oklahoma State University,Stillwater,74078,"24,000",Payne County commercial property tax ~1.2%. Accessible via OSU Stillwater Community Transit.
-OK,University of Central Oklahoma,Edmond,73034,"14,000",Oklahoma County commercial property tax ~1.4%. Accessible via Citylink Edmond.
-OK,Northeastern State University,Tahlequah,74464,"7,000",Cherokee County commercial property tax ~1.1%. Accessible via Coretz.
-OK,Southeastern Oklahoma State University,Durant,74701,"5,000",Bryan County commercial property tax ~1.2%. Limited public transit.
-OK,Southwestern Oklahoma State University,Weatherford,73096,"5,000",Custer County commercial property tax ~1.1%. Limited public transit.
-OK,Cameron University,Lawton,73505,"4,000",Comanche County commercial property tax ~1.3%. Accessible via LATS.
-OK,East Central University,Ada,74820,"3,500",Pontotoc County commercial property tax ~1.2%. Accessible via SCART.
-OK,Northwestern Oklahoma State University,Alva,73717,"2,000",Woods County commercial property tax ~1.1%. Limited public transit.
-OK,Oklahoma Panhandle State University,Goodwell,73939,"1,500",Texas County commercial property tax ~1.0%. Limited public transit.
-OK,Rogers State University,Claremore,74017,"3,500",Rogers County commercial property tax ~1.2%. Accessible via Pelivan Transit.
-OK,University of Science and Arts of Oklahoma,Chickasha,73018,800,Grady County commercial property tax ~1.2%. Limited public transit.
-OK,Langston University,Langston,73050,"2,000",Logan County commercial property tax ~1.3%. Limited public transit.
+State,University Name,City,ZIP Code,Surrounding ZIPs (5-mile radius),Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
+OK,University of Oklahoma,Norman,73019,"73019, 73026, 73069, 73071, 73072",28000,Cleveland County commercial property tax ~1.3%. Accessible via CART.
+OK,Oklahoma State University,Stillwater,74078,"74074, 74075, 74078",24000,Payne County commercial property tax ~1.2%. Accessible via OSU Stillwater Community Transit.
+OK,University of Central Oklahoma,Edmond,73034,"73003, 73012, 73013, 73025, 73034",14000,Oklahoma County commercial property tax ~1.4%. Accessible via Citylink Edmond.
+OK,Northeastern State University,Tahlequah,74464,"74464, 74465",7000,Cherokee County commercial property tax ~1.1%. Accessible via Coretz.
+OK,Southeastern Oklahoma State University,Durant,74701,"74701",5000,Bryan County commercial property tax ~1.2%. Limited public transit.
+OK,Southwestern Oklahoma State University,Weatherford,73096,"73096",5000,Custer County commercial property tax ~1.1%. Limited public transit.
+OK,Cameron University,Lawton,73505,"73501, 73505, 73507",4000,Comanche County commercial property tax ~1.3%. Accessible via LATS.
+OK,East Central University,Ada,74820,"74820, 74821",3500,Pontotoc County commercial property tax ~1.2%. Accessible via SCART.
+OK,Northwestern Oklahoma State University,Alva,73717,"73717",2000,Woods County commercial property tax ~1.1%. Limited public transit.
+OK,Oklahoma Panhandle State University,Goodwell,73939,"73939",1500,Texas County commercial property tax ~1.0%. Limited public transit.
+OK,Rogers State University,Claremore,74017,"74017, 74019",3500,Rogers County commercial property tax ~1.2%. Accessible via Pelivan Transit.
+OK,University of Science and Arts of Oklahoma,Chickasha,73018,"73018, 73023",800,Grady County commercial property tax ~1.2%. Limited public transit.
+OK,Langston University,Langston,73050,"73044, 73050",2000,Logan County commercial property tax ~1.3%. Limited public transit.

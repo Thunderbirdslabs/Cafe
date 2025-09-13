@@ -1,14 +1,14 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-WI,University of Wisconsin-Madison,Madison,53706,"48,000",Dane County commercial property tax ~2.2%. Accessible via Madison Metro.
-WI,University of Wisconsin-Milwaukee,Milwaukee,53211,"24,000",Milwaukee County commercial property tax ~2.8%. Accessible via MCTS.
-WI,University of Wisconsin-Oshkosh,Oshkosh,54901,"14,000",Winnebago County commercial property tax ~2.0%. Accessible via GO Transit.
-WI,University of Wisconsin-Whitewater,Whitewater,53190,"12,000",Walworth County commercial property tax ~1.8%. Accessible via Whitewater Transit.
-WI,University of Wisconsin-La Crosse,La Crosse,54601,"10,000",La Crosse County commercial property tax ~2.1%. Accessible via MTU.
-WI,University of Wisconsin-Eau Claire,Eau Claire,54701,"10,000",Eau Claire County commercial property tax ~2.0%. Accessible via Eau Claire Transit.
-WI,University of Wisconsin-Green Bay,Green Bay,54311,"9,000",Brown County commercial property tax ~2.1%. Accessible via Green Bay Metro.
-WI,University of Wisconsin-Stout,Menomonie,54751,"8,000",Dunn County commercial property tax ~1.9%. Accessible via Dunn County Transit.
-WI,University of Wisconsin-Platteville,Platteville,53818,"7,000",Grant County commercial property tax ~1.8%. Accessible via Platteville Public Transit.
-WI,University of Wisconsin-River Falls,River Falls,54022,"6,000",Pierce County commercial property tax ~1.7%. Limited public transit.
-WI,University of Wisconsin-Stevens Point,Stevens Point,54481,"8,000",Portage County commercial property tax ~2.0%. Accessible via Stevens Point Transit.
-WI,University of Wisconsin-Superior,Superior,54880,"2,500",Douglas County commercial property tax ~2.2%. Accessible via DTA.
-WI,University of Wisconsin-Parkside,Kenosha,53144,"4,000",Kenosha County commercial property tax ~2.4%. Accessible via Kenosha Area Transit.
+State,University Name,City,ZIP Code,Surrounding ZIPs (5-mile radius),Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
+WI,University of Wisconsin-Madison,Madison,53706,"53703, 53704, 53705, 53706, 53711, 53713, 53714, 53715, 53716, 53717, 53718, 53719, 53726",48000,Dane County commercial property tax ~2.2%. Accessible via Madison Metro.
+WI,University of Wisconsin-Milwaukee,Milwaukee,53211,"53202, 53203, 53204, 53205, 53206, 53207, 53208, 53209, 53210, 53211, 53212, 53217, 53233",24000,Milwaukee County commercial property tax ~2.8%. Accessible via MCTS.
+WI,University of Wisconsin-Oshkosh,Oshkosh,54901,"54901, 54902, 54904",14000,Winnebago County commercial property tax ~2.0%. Accessible via GO Transit.
+WI,University of Wisconsin-Whitewater,Whitewater,53190,"53190, 53121, 53147",12000,Walworth County commercial property tax ~1.8%. Accessible via Whitewater Transit.
+WI,University of Wisconsin-La Crosse,La Crosse,54601,"54601, 54603, 54650",10000,La Crosse County commercial property tax ~2.1%. Accessible via MTU.
+WI,University of Wisconsin-Eau Claire,Eau Claire,54701,"54701, 54703",10000,Eau Claire County commercial property tax ~2.0%. Accessible via Eau Claire Transit.
+WI,University of Wisconsin-Green Bay,Green Bay,54311,"54301, 54302, 54303, 54304, 54311, 54313",9000,Brown County commercial property tax ~2.1%. Accessible via Green Bay Metro.
+WI,University of Wisconsin-Stout,Menomonie,54751,"54751",8000,Dunn County commercial property tax ~1.9%. Accessible via Dunn County Transit.
+WI,University of Wisconsin-Platteville,Platteville,53818,"53818",7000,Grant County commercial property tax ~1.8%. Accessible via Platteville Public Transit.
+WI,University of Wisconsin-River Falls,River Falls,54022,"54022",6000,Pierce County commercial property tax ~1.7%. Limited public transit.
+WI,University of Wisconsin-Stevens Point,Stevens Point,54481,"54481, 54482",8000,Portage County commercial property tax ~2.0%. Accessible via Stevens Point Transit.
+WI,University of Wisconsin-Superior,Superior,54880,"54880, 55802, 55806, 55807",2500,Douglas County commercial property tax ~2.2%. Accessible via DTA.
+WI,University of Wisconsin-Parkside,Kenosha,53144,"53140, 53141, 53142, 53143, 53144, 53171",4000,Kenosha County commercial property tax ~2.4%. Accessible via Kenosha Area Transit.

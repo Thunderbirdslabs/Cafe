@@ -1,3 +1,3 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-DE,University of Delaware,Newark,19716,"24,000","New Castle County commercial property tax ~0.8%. Accessible via SEPTA, DART."
-DE,Delaware State University,Dover,19901,"5,000",Kent County commercial property tax ~0.7%. Accessible via DART.
+State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.),Surrounding ZIPs (5-mile radius)
+DE,University of Delaware,Newark,19716,"24,000","New Castle County commercial property tax ~0.8%. Accessible via SEPTA, DART.","19701, 19702, 19703, 19707, 19711, 19713, 19714, 19715, 19717, 19718, 19725, 19726"
+DE,Delaware State University,Dover,19901,"5,000",Kent County commercial property tax ~0.7%. Accessible via DART.,"19902, 19903, 19904, 19905, 19906, 19934, 19946, 19952, 19953, 19962, 19977"

@@ -1,9 +1,9 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-UT,University of Utah,Salt Lake City,84112,"34,000",Salt Lake County commercial property tax ~1.4%. Accessible via UTA.
-UT,Utah State University,Logan,84322,"28,000",Cache County commercial property tax ~1.2%. Accessible via CVTD.
-UT,Weber State University,Ogden,84408,"29,000",Weber County commercial property tax ~1.3%. Accessible via UTA.
-UT,Utah Valley University,Orem,84058,"41,000",Utah County commercial property tax ~1.1%. Accessible via UTA.
-UT,Southern Utah University,Cedar City,84720,"14,000",Iron County commercial property tax ~1.0%. Accessible via Cedar Area Transportation.
-UT,Dixie State University,St. George,84770,"12,000",Washington County commercial property tax ~1.0%. Accessible via SunTran.
-UT,Snow College,Ephraim,84627,"6,000",Sanpete County commercial property tax ~0.9%. Limited public transit.
-UT,Salt Lake Community College,Salt Lake City,84130,"27,000",Salt Lake County commercial property tax ~1.4%. Accessible via UTA.
+State,University Name,City,ZIP Code,Surrounding ZIPs (5-mile radius),Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
+UT,University of Utah,Salt Lake City,84112,"84102, 84103, 84105, 84108, 84111, 84112, 84113",34000,Salt Lake County commercial property tax ~1.4%. Accessible via UTA.
+UT,Utah State University,Logan,84322,"84321, 84322, 84341",28000,Cache County commercial property tax ~1.2%. Accessible via CVTD.
+UT,Weber State University,Ogden,84408,"84401, 84403, 84404, 84405, 84408, 84067",29000,Weber County commercial property tax ~1.3%. Accessible via UTA.
+UT,Utah Valley University,Orem,84058,"84057, 84058, 84059, 84097, 84003",41000,Utah County commercial property tax ~1.1%. Accessible via UTA.
+UT,Southern Utah University,Cedar City,84720,"84720, 84721",14000,Iron County commercial property tax ~1.0%. Accessible via Cedar Area Transportation.
+UT,Dixie State University,St. George,84770,"84770, 84790",12000,Washington County commercial property tax ~1.0%. Accessible via SunTran.
+UT,Snow College,Ephraim,84627,"84627",6000,Sanpete County commercial property tax ~0.9%. Limited public transit.
+UT,Salt Lake Community College,Salt Lake City,84130,"84118, 84119, 84123, 84129, 84084",27000,Salt Lake County commercial property tax ~1.4%. Accessible via UTA.

@@ -1,6 +1,6 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-VT,University of Vermont,Burlington,05405,"13,000",Chittenden County commercial property tax ~1.8%. Accessible via GMT.
-VT,Castleton University,Castleton,05735,"2,000",Rutland County commercial property tax ~1.9%. Accessible via The Bus.
-VT,Northern Vermont University,Johnson,05656,"1,500",Lamoille County commercial property tax ~1.7%. Limited public transit.
-VT,Northern Vermont University-Lyndon,Lyndonville,05851,"1,000",Caledonia County commercial property tax ~1.8%. Accessible via RCT.
-VT,Vermont Technical College,Randolph Center,05061,"1,500",Orange County commercial property tax ~1.9%. Accessible via Stagecoach.
+State,University Name,City,ZIP Code,Surrounding ZIPs (5-mile radius),Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
+VT,University of Vermont,Burlington,5405,"05401, 05405, 05408, 05403, 05452",13000,Chittenden County commercial property tax ~1.8%. Accessible via GMT.
+VT,Castleton University,Castleton,5735,"05735, 05743",2000,Rutland County commercial property tax ~1.9%. Accessible via The Bus.
+VT,Northern Vermont University,Johnson,5656,"05656, 05661",1500,Lamoille County commercial property tax ~1.7%. Limited public transit.
+VT,Northern Vermont University-Lyndon,Lyndonville,5851,"05851, 05849",1000,Caledonia County commercial property tax ~1.8%. Accessible via RCT.
+VT,Vermont Technical College,Randolph Center,5061,"05060, 05061",1500,Orange County commercial property tax ~1.9%. Accessible via Stagecoach.

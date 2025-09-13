@@ -1,7 +1,7 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-ND,North Dakota State University,Fargo,58102,"14,000",Cass County commercial property tax ~1.2%. Accessible via MATBUS.
-ND,University of North Dakota,Grand Forks,58202,"13,000",Grand Forks County commercial property tax ~1.3%. Accessible via CAT.
-ND,Minot State University,Minot,58707,"3,000",Ward County commercial property tax ~1.1%. Accessible via Minot City Transit.
-ND,Valley City State University,Valley City,58072,"1,500",Barnes County commercial property tax ~1.0%. Limited public transit.
-ND,Dickinson State University,Dickinson,58601,"1,500",Stark County commercial property tax ~1.0%. Limited public transit.
-ND,Mayville State University,Mayville,58257,"1,000",Traill County commercial property tax ~1.1%. Limited public transit.
+State,University Name,City,ZIP Code,Surrounding ZIPs (5-mile radius),Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
+ND,North Dakota State University,Fargo,58102,"58078, 58102, 58103, 58104, 58105",14000,Cass County commercial property tax ~1.2%. Accessible via MATBUS.
+ND,University of North Dakota,Grand Forks,58202,"58201, 58202, 58203",13000,Grand Forks County commercial property tax ~1.3%. Accessible via CAT.
+ND,Minot State University,Minot,58707,"58701, 58703, 58707",3000,Ward County commercial property tax ~1.1%. Accessible via Minot City Transit.
+ND,Valley City State University,Valley City,58072,"58072",1500,Barnes County commercial property tax ~1.0%. Limited public transit.
+ND,Dickinson State University,Dickinson,58601,"58601",1500,Stark County commercial property tax ~1.0%. Limited public transit.
+ND,Mayville State University,Mayville,58257,"58257",1000,Traill County commercial property tax ~1.1%. Limited public transit.

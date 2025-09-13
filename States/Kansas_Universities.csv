@@ -1,8 +1,8 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-KS,University of Kansas,Lawrence,66045,"27,000",Douglas County commercial property tax ~1.8%. Accessible via Lawrence Transit.
-KS,Kansas State University,Manhattan,66506,"21,000",Riley County commercial property tax ~1.7%. Accessible via aTa Bus.
-KS,Wichita State University,Wichita,67260,"16,000",Sedgwick County commercial property tax ~1.9%. Accessible via Wichita Transit.
-KS,Emporia State University,Emporia,66801,"6,000",Lyon County commercial property tax ~1.8%. Accessible via L-CAT.
-KS,Pittsburg State University,Pittsburg,66762,"7,000",Crawford County commercial property tax ~1.9%. Accessible via SPARTRAN.
-KS,Fort Hays State University,Hays,67601,"15,000",Ellis County commercial property tax ~1.6%. Limited public transit.
-KS,Washburn University,Topeka,66621,"6,000",Shawnee County commercial property tax ~2.0%. Accessible via Topeka Metro.
+State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.),Surrounding ZIPs (5-mile radius)
+KS,University of Kansas,Lawrence,66045,"27,000",Douglas County commercial property tax ~1.8%. Accessible via Lawrence Transit.,"66044, 66046, 66047, 66049"
+KS,Kansas State University,Manhattan,66506,"21,000",Riley County commercial property tax ~1.7%. Accessible via aTa Bus.,"66502, 66503, 66505"
+KS,Wichita State University,Wichita,67260,"16,000",Sedgwick County commercial property tax ~1.9%. Accessible via Wichita Transit.,"67203, 67206, 67207, 67208, 67214, 67218, 67219, 67220, 67226, 67228"
+KS,Emporia State University,Emporia,66801,"6,000",Lyon County commercial property tax ~1.8%. Accessible via L-CAT.,"66801"
+KS,Pittsburg State University,Pittsburg,66762,"7,000",Crawford County commercial property tax ~1.9%. Accessible via SPARTRAN.,"66725, 66763"
+KS,Fort Hays State University,Hays,67601,"15,000",Ellis County commercial property tax ~1.6%. Limited public transit.,"67601"
+KS,Washburn University,Topeka,66621,"6,000",Shawnee County commercial property tax ~2.0%. Accessible via Topeka Metro.,"66603, 66604, 66605, 66606, 66607, 66608, 66609, 66610, 66611, 66612, 66614, 66615, 66616, 66617, 66618, 66619, 66620, 66622, 66624, 66625, 66626, 66628, 66629, 66636, 66642, 66647, 66652, 66653, 66658, 66667, 66675, 66683, 66692, 66699"

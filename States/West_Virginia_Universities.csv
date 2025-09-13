@@ -1,10 +1,10 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-WV,West Virginia University,Morgantown,26506,"28,000",Monongalia County commercial property tax ~1.2%. Accessible via Mountain Line.
-WV,Marshall University,Huntington,25755,"12,000",Cabell County commercial property tax ~1.3%. Accessible via TTA.
-WV,Fairmont State University,Fairmont,26554,"3,500",Marion County commercial property tax ~1.1%. Accessible via MCT.
-WV,Shepherd University,Shepherdstown,25443,"3,000",Jefferson County commercial property tax ~0.9%. Accessible via EPTA.
-WV,West Liberty University,West Liberty,26074,"2,500",Ohio County commercial property tax ~1.2%. Accessible via OVRTA.
-WV,Concord University,Athens,24712,"2,000",Mercer County commercial property tax ~1.0%. Accessible via BCT.
-WV,West Virginia State University,Institute,25112,"3,000",Kanawha County commercial property tax ~1.4%. Accessible via KRT.
-WV,Glenville State College,Glenville,26351,"1,500",Gilmer County commercial property tax ~1.0%. Limited public transit.
-WV,Bluefield State College,Bluefield,24701,"1,500",Mercer County commercial property tax ~1.0%. Accessible via BCT.
+State,University Name,City,ZIP Code,Surrounding ZIPs (5-mile radius),Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
+WV,West Virginia University,Morgantown,26506,"26501, 26505, 26506, 26508, 26507",28000,Monongalia County commercial property tax ~1.2%. Accessible via Mountain Line.
+WV,Marshall University,Huntington,25755,"25701, 25702, 25703, 25705, 25755",12000,Cabell County commercial property tax ~1.3%. Accessible via TTA.
+WV,Fairmont State University,Fairmont,26554,"26554",3500,Marion County commercial property tax ~1.1%. Accessible via MCT.
+WV,Shepherd University,Shepherdstown,25443,"25443",3000,Jefferson County commercial property tax ~0.9%. Accessible via EPTA.
+WV,West Liberty University,West Liberty,26074,"26074, 26003",2500,Ohio County commercial property tax ~1.2%. Accessible via OVRTA.
+WV,Concord University,Athens,24712,"24712, 24740",2000,Mercer County commercial property tax ~1.0%. Accessible via BCT.
+WV,West Virginia State University,Institute,25112,"25112, 25312, 25064",3000,Kanawha County commercial property tax ~1.4%. Accessible via KRT.
+WV,Glenville State College,Glenville,26351,"26351",1500,Gilmer County commercial property tax ~1.0%. Limited public transit.
+WV,Bluefield State College,Bluefield,24701,"24701",1500,Mercer County commercial property tax ~1.0%. Accessible via BCT.

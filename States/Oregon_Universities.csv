@@ -1,8 +1,8 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-OR,University of Oregon,Eugene,97403,"23,000",Lane County commercial property tax ~1.2%. Accessible via LTD.
-OR,Oregon State University,Corvallis,97331,"34,000",Benton County commercial property tax ~1.1%. Accessible via CTS.
-OR,Portland State University,Portland,97201,"24,000",Multnomah County commercial property tax ~1.8%. Accessible via TriMet.
-OR,Southern Oregon University,Ashland,97520,"5,000",Jackson County commercial property tax ~1.0%. Accessible via RVTD.
-OR,Western Oregon University,Monmouth,97361,"4,000",Polk County commercial property tax ~1.3%. Accessible via Cherriots.
-OR,Eastern Oregon University,La Grande,97850,"3,000",Union County commercial property tax ~1.2%. Limited public transit.
-OR,Oregon Institute of Technology,Klamath Falls,97601,"5,000",Klamath County commercial property tax ~1.1%. Accessible via Basin Transit.
+State,University Name,City,ZIP Code,Surrounding ZIPs (5-mile radius),Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
+OR,University of Oregon,Eugene,97403,"97401, 97402, 97403, 97404, 97405, 97408",23000,Lane County commercial property tax ~1.2%. Accessible via LTD.
+OR,Oregon State University,Corvallis,97331,"97330, 97331, 97333",34000,Benton County commercial property tax ~1.1%. Accessible via CTS.
+OR,Portland State University,Portland,97201,"97201, 97202, 97204, 97205, 97209, 97210, 97214, 97232, 97239",24000,Multnomah County commercial property tax ~1.8%. Accessible via TriMet.
+OR,Southern Oregon University,Ashland,97520,"97520, 97540",5000,Jackson County commercial property tax ~1.0%. Accessible via RVTD.
+OR,Western Oregon University,Monmouth,97361,"97351, 97361, 97371",4000,Polk County commercial property tax ~1.3%. Accessible via Cherriots.
+OR,Eastern Oregon University,La Grande,97850,"97850",3000,Union County commercial property tax ~1.2%. Limited public transit.
+OR,Oregon Institute of Technology,Klamath Falls,97601,"97601, 97603",5000,Klamath County commercial property tax ~1.1%. Accessible via Basin Transit.

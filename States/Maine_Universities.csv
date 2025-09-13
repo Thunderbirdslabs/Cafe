@@ -1,9 +1,9 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-ME,University of Maine,Orono,04469,"11,500",Penobscot County commercial property tax ~1.8%. Accessible via Community Connector.
-ME,University of Southern Maine,Portland,04103,"8,000",Cumberland County commercial property tax ~1.9%. Accessible via Greater Portland METRO.
-ME,University of Maine at Augusta,Augusta,04330,"4,500",Kennebec County commercial property tax ~2.0%. Accessible via Kennebec Explorer.
-ME,University of Maine at Farmington,Farmington,04938,"2,000",Franklin County commercial property tax ~1.9%. Limited public transit.
-ME,University of Maine at Fort Kent,Fort Kent,04743,"1,500",Aroostook County commercial property tax ~1.7%. Limited public transit.
-ME,University of Maine at Presque Isle,Presque Isle,04769,"1,500",Aroostook County commercial property tax ~1.7%. Accessible via The County Connection.
-ME,University of Maine at Machias,Machias,04654,800,Washington County commercial property tax ~1.6%. Limited public transit.
-ME,Maine Maritime Academy,Castine,04420,"1,000",Hancock County commercial property tax ~1.5%. Limited public transit.
+State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.),Surrounding ZIPs (5-mile radius)
+ME,University of Maine,Orono,04469,"11,500",Penobscot County commercial property tax ~1.8%. Accessible via Community Connector.,"04473, 04468, 04428, 04429, 04401"
+ME,University of Southern Maine,Portland,04103,"8,000",Cumberland County commercial property tax ~1.9%. Accessible via Greater Portland METRO.,"04101, 04102, 04104, 04109, 04112, 04116, 04122, 04123, 04124"
+ME,University of Maine at Augusta,Augusta,04330,"4,500",Kennebec County commercial property tax ~2.0%. Accessible via Kennebec Explorer.,"04332, 04333, 04336, 04338, 04345, 04347, 04351, 04352, 04358"
+ME,University of Maine at Farmington,Farmington,04938,"2,000",Franklin County commercial property tax ~1.9%. Limited public transit.,"04938"
+ME,University of Maine at Fort Kent,Fort Kent,04743,"1,500",Aroostook County commercial property tax ~1.7%. Limited public transit.,"04743"
+ME,University of Maine at Presque Isle,Presque Isle,04769,"1,500",Aroostook County commercial property tax ~1.7%. Accessible via The County Connection.,"04769"
+ME,University of Maine at Machias,Machias,04654,800,Washington County commercial property tax ~1.6%. Limited public transit.,"04654"
+ME,Maine Maritime Academy,Castine,04420,"1,000",Hancock County commercial property tax ~1.5%. Limited public transit.,"04421"

@@ -1,4 +1,4 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-IA,University of Iowa,Iowa City,52242,"31,000",Johnson County commercial property tax ~2.0%. Accessible via Iowa City Transit.
-IA,Iowa State University,Ames,50011,"33,000",Story County commercial property tax ~1.9%. Accessible via CyRide.
-IA,University of Northern Iowa,Cedar Falls,50614,"9,000",Black Hawk County commercial property tax ~2.1%. Accessible via MET Transit.
+State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.),Surrounding ZIPs (5-mile radius)
+IA,University of Iowa,Iowa City,52242,"31,000",Johnson County commercial property tax ~2.0%. Accessible via Iowa City Transit.,"52240, 52241, 52243, 52244, 52245, 52246, 52317, 52333, 52340"
+IA,Iowa State University,Ames,50011,"33,000",Story County commercial property tax ~1.9%. Accessible via CyRide.,"50010, 50012, 50013, 50014, 50105, 50131"
+IA,University of Northern Iowa,Cedar Falls,50614,"9,000",Black Hawk County commercial property tax ~2.1%. Accessible via MET Transit.,"50613, 50701, 50702, 50703, 50704, 50707"

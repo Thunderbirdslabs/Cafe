@@ -1,19 +1,19 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-PA,Pennsylvania State University,University Park,16802,"90,000",Centre County commercial property tax ~2.0%. Accessible via CATA.
-PA,University of Pittsburgh,Pittsburgh,15260,"33,000",Allegheny County commercial property tax ~2.5%. Accessible via Port Authority.
-PA,Temple University,Philadelphia,19122,"35,000",Philadelphia County commercial property tax ~1.4%. Accessible via SEPTA.
-PA,West Chester University of Pennsylvania,West Chester,19383,"17,000",Chester County commercial property tax ~1.6%. Accessible via SEPTA.
-PA,Indiana University of Pennsylvania,Indiana,15705,"10,000",Indiana County commercial property tax ~1.8%. Accessible via IndiGO.
-PA,Slippery Rock University of Pennsylvania,Slippery Rock,16057,"8,500",Butler County commercial property tax ~1.9%. Limited public transit.
-PA,Kutztown University of Pennsylvania,Kutztown,19530,"8,000",Berks County commercial property tax ~2.1%. Accessible via BARTA.
-PA,Millersville University of Pennsylvania,Millersville,17551,"7,500",Lancaster County commercial property tax ~1.7%. Accessible via RRTA.
-PA,Bloomsburg University of Pennsylvania,Bloomsburg,17815,"8,000",Columbia County commercial property tax ~1.9%. Limited public transit.
-PA,Shippensburg University of Pennsylvania,Shippensburg,17257,"6,000",Cumberland County commercial property tax ~1.8%. Accessible via CAT.
-PA,East Stroudsburg University of Pennsylvania,East Stroudsburg,18301,"6,000",Monroe County commercial property tax ~2.0%. Accessible via MCTA.
-PA,Clarion University of Pennsylvania,Clarion,16214,"4,000",Clarion County commercial property tax ~1.9%. Limited public transit.
-PA,California University of Pennsylvania,California,15419,"7,000",Washington County commercial property tax ~2.0%. Limited public transit.
-PA,Edinboro University of Pennsylvania,Edinboro,16444,"4,500",Erie County commercial property tax ~2.2%. Accessible via EMTA.
-PA,Mansfield University of Pennsylvania,Mansfield,16933,"2,000",Tioga County commercial property tax ~1.8%. Limited public transit.
-PA,Lock Haven University of Pennsylvania,Lock Haven,17745,"3,000",Clinton County commercial property tax ~1.9%. Limited public transit.
-PA,Cheyney University of Pennsylvania,Cheyney,19319,700,Delaware County commercial property tax ~2.2%. Accessible via SEPTA.
-PA,Lincoln University,Lincoln University,19352,"2,000",Chester County commercial property tax ~1.6%. Limited public transit.
+State,University Name,City,ZIP Code,Surrounding ZIPs (5-mile radius),Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
+PA,Pennsylvania State University,University Park,16802,"16801, 16802, 16803",90000,Centre County commercial property tax ~2.0%. Accessible via CATA.
+PA,University of Pittsburgh,Pittsburgh,15260,"15213, 15217, 15219, 15232, 15260",33000,Allegheny County commercial property tax ~2.5%. Accessible via Port Authority.
+PA,Temple University,Philadelphia,19122,"19121, 19122, 19123, 19130, 19132, 19133, 19140",35000,Philadelphia County commercial property tax ~1.4%. Accessible via SEPTA.
+PA,West Chester University of Pennsylvania,West Chester,19383,"19380, 19382, 19383",17000,Chester County commercial property tax ~1.6%. Accessible via SEPTA.
+PA,Indiana University of Pennsylvania,Indiana,15705,"15701, 15705",10000,Indiana County commercial property tax ~1.8%. Accessible via IndiGO.
+PA,Slippery Rock University of Pennsylvania,Slippery Rock,16057,"16057",8500,Butler County commercial property tax ~1.9%. Limited public transit.
+PA,Kutztown University of Pennsylvania,Kutztown,19530,"19522, 19530, 19539",8000,Berks County commercial property tax ~2.1%. Accessible via BARTA.
+PA,Millersville University of Pennsylvania,Millersville,17551,"17551, 17603",7500,Lancaster County commercial property tax ~1.7%. Accessible via RRTA.
+PA,Bloomsburg University of Pennsylvania,Bloomsburg,17815,"17815",8000,Columbia County commercial property tax ~1.9%. Limited public transit.
+PA,Shippensburg University of Pennsylvania,Shippensburg,17257,"17257",6000,Cumberland County commercial property tax ~1.8%. Accessible via CAT.
+PA,East Stroudsburg University of Pennsylvania,East Stroudsburg,18301,"18301, 18360",6000,Monroe County commercial property tax ~2.0%. Accessible via MCTA.
+PA,Clarion University of Pennsylvania,Clarion,16214,"16214",4000,Clarion County commercial property tax ~1.9%. Limited public transit.
+PA,California University of Pennsylvania,California,15419,"15419",7000,Washington County commercial property tax ~2.0%. Limited public transit.
+PA,Edinboro University of Pennsylvania,Edinboro,16444,"16412, 16444",4500,Erie County commercial property tax ~2.2%. Accessible via EMTA.
+PA,Mansfield University of Pennsylvania,Mansfield,16933,"16933",2000,Tioga County commercial property tax ~1.8%. Limited public transit.
+PA,Lock Haven University of Pennsylvania,Lock Haven,17745,"17745",3000,Clinton County commercial property tax ~1.9%. Limited public transit.
+PA,Cheyney University of Pennsylvania,Cheyney,19319,"19319, 19342, 19382",700,Delaware County commercial property tax ~2.2%. Accessible via SEPTA.
+PA,Lincoln University,Lincoln University,19352,"19352, 19363",2000,Chester County commercial property tax ~1.6%. Limited public transit.

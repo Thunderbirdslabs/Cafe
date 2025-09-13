@@ -1,10 +1,10 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-MN,University of Minnesota Twin Cities,Minneapolis,55455,"52,000",Hennepin County commercial property tax ~2.8%. Accessible via Metro Transit.
-MN,University of Minnesota Duluth,Duluth,55812,"10,000",St. Louis County commercial property tax ~2.2%. Accessible via DTA.
-MN,St. Cloud State University,St. Cloud,56301,"12,000",Stearns County commercial property tax ~2.4%. Accessible via St. Cloud Metro Bus.
-MN,Minnesota State University, Mankato,Mankato,56001,"14,000",Blue Earth County commercial property tax ~2.1%. Accessible via Mankato Transit System.
-MN,Winona State University,Winona,55987,"7,000",Winona County commercial property tax ~2.0%. Accessible via Winona Transit Service.
-MN,Bemidji State University,Bemidji,56601,"5,000",Beltrami County commercial property tax ~1.9%. Accessible via Paul Bunyan Transit.
-MN,Minnesota State University Moorhead,Moorhead,56563,"6,000",Clay County commercial property tax ~2.0%. Accessible via MATBUS.
-MN,Southwest Minnesota State University,Marshall,56258,"7,000",Lyon County commercial property tax ~1.9%. Limited public transit.
-MN,Metropolitan State University,St. Paul,55106,"11,000",Ramsey County commercial property tax ~2.7%. Accessible via Metro Transit.
+State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.),Surrounding ZIPs (5-mile radius)
+MN,University of Minnesota Twin Cities,Minneapolis,55455,"52,000",Hennepin County commercial property tax ~2.8%. Accessible via Metro Transit.,"55401, 55402, 55403, 55404, 55405, 55406, 55407, 55408, 55409, 55410, 55411, 55412, 55413, 55414, 55415, 55416, 55417, 55418, 55419, 55421, 55422, 55423, 55424, 55426, 55427, 55428, 55429, 55430, 55432, 55435, 55436, 55437, 55438, 55439, 55440, 55441, 55442, 55443, 55444, 55445, 55446, 55447, 55448, 55449, 55450, 55454, 55458, 55459, 55460, 55467, 55470, 55472, 55473, 55474, 55478, 55479, 55480, 55483, 55484, 55485, 55486, 55487, 55488"
+MN,University of Minnesota Duluth,Duluth,55812,"10,000",St. Louis County commercial property tax ~2.2%. Accessible via DTA.,"55802, 55803, 55804, 55805, 55806, 55807, 55808, 55810, 55811"
+MN,St. Cloud State University,St. Cloud,56301,"12,000",Stearns County commercial property tax ~2.4%. Accessible via St. Cloud Metro Bus.,"56302, 56303, 56304, 56372, 56387, 56388, 56393, 56395, 56396, 56397, 56398, 56399"
+MN,Minnesota State University, Mankato,Mankato,56001,"14,000",Blue Earth County commercial property tax ~2.1%. Accessible via Mankato Transit System.,"56002, 56003, 56006"
+MN,Winona State University,Winona,55987,"7,000",Winona County commercial property tax ~2.0%. Accessible via Winona Transit Service.,"55987"
+MN,Bemidji State University,Bemidji,56601,"5,000",Beltrami County commercial property tax ~1.9%. Accessible via Paul Bunyan Transit.,"56601"
+MN,Minnesota State University Moorhead,Moorhead,56563,"6,000",Clay County commercial property tax ~2.0%. Accessible via MATBUS.,"56560, 56561, 56562"
+MN,Southwest Minnesota State University,Marshall,56258,"7,000",Lyon County commercial property tax ~1.9%. Limited public transit.,"56258"
+MN,Metropolitan State University,St. Paul,55106,"11,000",Ramsey County commercial property tax ~2.7%. Accessible via Metro Transit.,"55101, 55102, 55103, 55104, 55105, 55107, 55108, 55113, 55114, 55116, 55117, 55118, 55119, 55130, 55144, 55145, 55146, 55155, 55164, 55165, 55166, 55168, 55169, 55170, 55171, 55172, 55175, 55177, 55187, 55188"

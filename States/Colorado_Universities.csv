@@ -1,13 +1,13 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-CO,University of Colorado Boulder,Boulder,80309,"37,000",Boulder County commercial property tax ~1.3%. Accessible via RTD.
-CO,University of Colorado Colorado Springs,Colorado Springs,80918,"12,000",El Paso County commercial property tax ~1.3%. Accessible via Mountain Metro.
-CO,University of Colorado Denver,Denver,80204,"15,000",Denver County commercial property tax ~1.3%. Accessible via RTD Light Rail.
-CO,Colorado State University,Fort Collins,80523,"34,000",Larimer County commercial property tax ~1.2%. Accessible via Transfort.
-CO,Metropolitan State University of Denver,Denver,80204,"19,000",Denver County commercial property tax ~1.3%. Accessible via RTD Light Rail.
-CO,University of Northern Colorado,Greeley,80639,"11,000",Weld County commercial property tax ~1.2%. Accessible via GET.
-CO,Colorado School of Mines,Golden,80401,"7,000",Jefferson County commercial property tax ~1.2%. Accessible via RTD.
-CO,Fort Lewis College,Durango,81301,"3,500",La Plata County commercial property tax ~0.8%. Accessible via Durango Transit.
-CO,Western Colorado University,Gunnison,81231,"3,000",Gunnison County commercial property tax ~0.8%. Accessible via RTA.
-CO,Adams State University,Alamosa,81101,"3,000",Alamosa County commercial property tax ~0.9%. Limited public transit.
-CO,Colorado Mesa University,Grand Junction,81501,"11,000",Mesa County commercial property tax ~0.9%. Accessible via GVT.
-CO,CSU Pueblo,Pueblo,81001,"4,000",Pueblo County commercial property tax ~1.0%. Accessible via Pueblo Transit.
+State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.),Surrounding ZIPs (5-mile radius)
+CO,University of Colorado Boulder,Boulder,80309,"37,000",Boulder County commercial property tax ~1.3%. Accessible via RTD.,"80301, 80302, 80303, 80304, 80305, 80306, 80307, 80308, 80310, 80314"
+CO,University of Colorado Colorado Springs,Colorado Springs,80918,"12,000",El Paso County commercial property tax ~1.3%. Accessible via Mountain Metro.,"80907, 80917, 80919, 80920, 80923, 80924"
+CO,University of Colorado Denver,Denver,80204,"15,000",Denver County commercial property tax ~1.3%. Accessible via RTD Light Rail.,"80202, 80203, 80204, 80205, 80206, 80207, 80208, 80209, 80210, 80211, 80212, 80214, 80216, 80218, 80219, 80220, 80221, 80222, 80223, 80224, 80225, 80226, 80227, 80228, 80230, 80231, 80232, 80235, 80236, 80237, 80238, 80239, 80243, 80244, 80246, 80247, 80248, 80249, 80250, 80251, 80252, 80256, 80257, 80259, 80260, 80261, 80262, 80263, 80264, 80265, 80266, 80271, 80273, 80274, 80279, 80280, 80281, 80290, 80291, 80293, 80294, 80295, 80299"
+CO,Colorado State University,Fort Collins,80523,"34,000",Larimer County commercial property tax ~1.2%. Accessible via Transfort.,"80521, 80522, 80524, 80525, 80526, 80527, 80528, 80553"
+CO,Metropolitan State University of Denver,Denver,80204,"19,000",Denver County commercial property tax ~1.3%. Accessible via RTD Light Rail.,"80202, 80203, 80204, 80205, 80206, 80207, 80208, 80209, 80210, 80211, 80212, 80214, 80216, 80218, 80219, 80220, 80221, 80222, 80223, 80224, 80225, 80226, 80227, 80228, 80230, 80231, 80232, 80235, 80236, 80237, 80238, 80239, 80243, 80244, 80246, 80247, 80248, 80249, 80250, 80251, 80252, 80256, 80257, 80259, 80260, 80261, 80262, 80263, 80264, 80265, 80266, 80271, 80273, 80274, 80279, 80280, 80281, 80290, 80291, 80293, 80294, 80295, 80299"
+CO,University of Northern Colorado,Greeley,80639,"11,000",Weld County commercial property tax ~1.2%. Accessible via GET.,"80631, 80632, 80633, 80634, 80638"
+CO,Colorado School of Mines,Golden,80401,"7,000",Jefferson County commercial property tax ~1.2%. Accessible via RTD.,"80402, 80403, 80419, 80422, 80439"
+CO,Fort Lewis College,Durango,81301,"3,500",La Plata County commercial property tax ~0.8%. Accessible via Durango Transit.,"81302, 81303"
+CO,Western Colorado University,Gunnison,81231,"3,000",Gunnison County commercial property tax ~0.8%. Accessible via RTA.,"81230"
+CO,Adams State University,Alamosa,81101,"3,000",Alamosa County commercial property tax ~0.9%. Limited public transit.,"81102"
+CO,Colorado Mesa University,Grand Junction,81501,"11,000",Mesa County commercial property tax ~0.9%. Accessible via GVT.,"81502, 81503, 81504, 81505, 81506, 81507"
+CO,CSU Pueblo,Pueblo,81001,"4,000",Pueblo County commercial property tax ~1.0%. Accessible via Pueblo Transit.,"81002, 81003, 81004, 81005, 81006, 81007, 81008, 81009, 81010, 81011, 81012"

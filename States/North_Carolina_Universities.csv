@@ -1,16 +1,16 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-NC,North Carolina State University,Raleigh,27695,"36,000",Wake County commercial property tax ~1.1%. Accessible via GoRaleigh.
-NC,University of North Carolina at Chapel Hill,Chapel Hill,27599,"31,000",Orange County commercial property tax ~1.5%. Accessible via Chapel Hill Transit.
-NC,East Carolina University,Greenville,27858,"28,000",Pitt County commercial property tax ~1.2%. Accessible via GREAT.
-NC,University of North Carolina at Charlotte,Charlotte,28223,"30,000",Mecklenburg County commercial property tax ~1.3%. Accessible via CATS.
-NC,Appalachian State University,Boone,28608,"20,000",Watauga County commercial property tax ~0.8%. Accessible via AppalCART.
-NC,University of North Carolina at Greensboro,Greensboro,27412,"19,000",Guilford County commercial property tax ~1.3%. Accessible via GTA/HEAT.
-NC,University of North Carolina Wilmington,Wilmington,28403,"18,000",New Hanover County commercial property tax ~1.1%. Accessible via Wave Transit.
-NC,Western Carolina University,Cullowhee,28723,"12,000",Jackson County commercial property tax ~0.9%. Accessible via Cat-Tran.
-NC,North Carolina A&T State University,Greensboro,27411,"13,000",Guilford County commercial property tax ~1.3%. Accessible via GTA/HEAT.
-NC,North Carolina Central University,Durham,27707,"8,000",Durham County commercial property tax ~1.4%. Accessible via GoDurham.
-NC,University of North Carolina at Pembroke,Pembroke,28372,"8,000",Robeson County commercial property tax ~1.1%. Limited public transit.
-NC,Winston-Salem State University,Winston-Salem,27110,"5,000",Forsyth County commercial property tax ~1.3%. Accessible via WSTA.
-NC,Fayetteville State University,Fayetteville,28301,"7,000",Cumberland County commercial property tax ~1.2%. Accessible via FAST.
-NC,University of North Carolina at Asheville,Asheville,28804,"3,500",Buncombe County commercial property tax ~1.0%. Accessible via ART.
-NC,Elizabeth City State University,Elizabeth City,27909,"2,000",Pasquotank County commercial property tax ~1.0%. Limited public transit.
+State,University Name,City,ZIP Code,Surrounding ZIPs (5-mile radius),Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
+NC,North Carolina State University,Raleigh,27695,"27601, 27603, 27604, 27605, 27606, 27607, 27608, 27610, 27612",36000,Wake County commercial property tax ~1.1%. Accessible via GoRaleigh.
+NC,University of North Carolina at Chapel Hill,Chapel Hill,27599,"27514, 27516, 27517, 27707",31000,Orange County commercial property tax ~1.5%. Accessible via Chapel Hill Transit.
+NC,East Carolina University,Greenville,27858,"27834, 27858",28000,Pitt County commercial property tax ~1.2%. Accessible via GREAT.
+NC,University of North Carolina at Charlotte,Charlotte,28223,"28213, 28262, 28269",30000,Mecklenburg County commercial property tax ~1.3%. Accessible via CATS.
+NC,Appalachian State University,Boone,28608,"28607, 28608",20000,Watauga County commercial property tax ~0.8%. Accessible via AppalCART.
+NC,University of North Carolina at Greensboro,Greensboro,27412,"27401, 27403, 27405, 27406, 27407, 27408, 27410",19000,Guilford County commercial property tax ~1.3%. Accessible via GTA/HEAT.
+NC,University of North Carolina Wilmington,Wilmington,28403,"28401, 28403, 28405, 28409, 28412",18000,New Hanover County commercial property tax ~1.1%. Accessible via Wave Transit.
+NC,Western Carolina University,Cullowhee,28723,"28723, 28779",12000,Jackson County commercial property tax ~0.9%. Accessible via Cat-Tran.
+NC,North Carolina A&T State University,Greensboro,27411,"27401, 27405, 27406",13000,Guilford County commercial property tax ~1.3%. Accessible via GTA/HEAT.
+NC,North Carolina Central University,Durham,27707,"27701, 27703, 27704, 27705, 27707, 27713",8000,Durham County commercial property tax ~1.4%. Accessible via GoDurham.
+NC,University of North Carolina at Pembroke,Pembroke,28372,"28372",8000,Robeson County commercial property tax ~1.1%. Limited public transit.
+NC,Winston-Salem State University,Winston-Salem,27110,"27101, 27103, 27104, 27105, 27106, 27107, 27127",5000,Forsyth County commercial property tax ~1.3%. Accessible via WSTA.
+NC,Fayetteville State University,Fayetteville,28301,"28301, 28303, 28304, 28305, 28311, 28314",7000,Cumberland County commercial property tax ~1.2%. Accessible via FAST.
+NC,University of North Carolina at Asheville,Asheville,28804,"28801, 28803, 28804, 28805, 28806",3500,Buncombe County commercial property tax ~1.0%. Accessible via ART.
+NC,Elizabeth City State University,Elizabeth City,27909,"27909",2000,Pasquotank County commercial property tax ~1.0%. Limited public transit.

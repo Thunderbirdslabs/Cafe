@@ -1,2 +1,2 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-WY,University of Wyoming,Laramie,82071,"12,000",Albany County commercial property tax ~1.0%. Accessible via UWYO Roundup.
+State,University Name,City,ZIP Code,Surrounding ZIPs (5-mile radius),Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
+WY,University of Wyoming,Laramie,82071,"82070, 82071, 82072",12000,Albany County commercial property tax ~1.0%. Accessible via UWYO Roundup.

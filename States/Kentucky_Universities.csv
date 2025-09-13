@@ -1,9 +1,9 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-KY,University of Kentucky,Lexington,40506,"31,000",Fayette County commercial property tax ~1.2%. Accessible via Lextran.
-KY,University of Louisville,Louisville,40292,"22,000",Jefferson County commercial property tax ~1.3%. Accessible via TARC.
-KY,Western Kentucky University,Bowling Green,42101,"17,000",Warren County commercial property tax ~1.0%. Accessible via GO BG.
-KY,Eastern Kentucky University,Richmond,40475,"14,000",Madison County commercial property tax ~1.0%. Accessible via Big E Transit.
-KY,Northern Kentucky University,Highland Heights,41099,"16,000",Campbell County commercial property tax ~1.1%. Accessible via TANK.
-KY,Murray State University,Murray,42071,"9,000",Calloway County commercial property tax ~0.9%. Accessible via MUTS.
-KY,Morehead State University,Morehead,40351,"9,000",Rowan County commercial property tax ~1.0%. Accessible via Morehead Transit.
-KY,Kentucky State University,Frankfort,40601,"2,000",Franklin County commercial property tax ~1.1%. Accessible via Frankfort Transit.
+State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.),Surrounding ZIPs (5-mile radius)
+KY,University of Kentucky,Lexington,40506,"31,000",Fayette County commercial property tax ~1.2%. Accessible via Lextran.,"40502, 40503, 40504, 40505, 40507, 40508, 40509, 40510, 40511, 40513, 40514, 40515, 40516, 40517, 40522, 40523, 40524, 40526, 40533, 40536, 40544, 40546, 40550, 40555, 40574, 40575, 40576, 40577, 40578, 40579, 40580, 40581, 40582, 40583, 40588, 40591, 40598"
+KY,University of Louisville,Louisville,40292,"22,000",Jefferson County commercial property tax ~1.3%. Accessible via TARC.,"40202, 40203, 40204, 40205, 40206, 40207, 40208, 40209, 40210, 40211, 40212, 40213, 40214, 40215, 40216, 40217, 40218, 40219, 40220, 40222, 40223, 40225, 40228, 40229, 40231, 40232, 40233, 40241, 40242, 40243, 40245, 40250, 40251, 40252, 40253, 40255, 40256, 40257, 40258, 40259, 40261, 40266, 40268, 40269, 40270, 40272, 40280, 40281, 40282, 40283, 40285, 40287, 40289, 40290, 40291, 40293, 40294, 40295, 40296, 40297, 40298, 40299"
+KY,Western Kentucky University,Bowling Green,42101,"17,000",Warren County commercial property tax ~1.0%. Accessible via GO BG.,"42102, 42103, 42104"
+KY,Eastern Kentucky University,Richmond,40475,"14,000",Madison County commercial property tax ~1.0%. Accessible via Big E Transit.,"40476"
+KY,Northern Kentucky University,Highland Heights,41099,"16,000",Campbell County commercial property tax ~1.1%. Accessible via TANK.,"41071, 41075, 41076"
+KY,Murray State University,Murray,42071,"9,000",Calloway County commercial property tax ~0.9%. Accessible via MUTS.,"42029"
+KY,Morehead State University,Morehead,40351,"9,000",Rowan County commercial property tax ~1.0%. Accessible via Morehead Transit.,"40313"
+KY,Kentucky State University,Frankfort,40601,"2,000",Franklin County commercial property tax ~1.1%. Accessible via Frankfort Transit.,"40602, 40603, 40604, 40618, 40619, 40620, 40621, 40622"

@@ -1,8 +1,8 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-NV,University of Nevada, Las Vegas,Las Vegas,89154,"31,000",Clark County commercial property tax ~1.1%. Accessible via RTC.
-NV,University of Nevada, Reno,Reno,89557,"21,000",Washoe County commercial property tax ~1.0%. Accessible via RTC RIDE.
-NV,Nevada State College,Henderson,89002,"7,000",Clark County commercial property tax ~1.1%. Accessible via RTC.
-NV,College of Southern Nevada,North Las Vegas,89030,"34,000",Clark County commercial property tax ~1.1%. Accessible via RTC.
-NV,Great Basin College,Elko,89801,"4,000",Elko County commercial property tax ~0.9%. Limited public transit.
-NV,Western Nevada College,Carson City,89703,"3,500",Carson City commercial property tax ~1.0%. Accessible via JAC.
-NV,Truckee Meadows Community College,Reno,89512,"11,000",Washoe County commercial property tax ~1.0%. Accessible via RTC RIDE.
+State,University Name,City,ZIP Code,Surrounding ZIPs (5-mile radius),Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
+NV,University of Nevada, Las Vegas,Las Vegas,89154,"89104, 89109, 89119, 89121, 89169",31000,Clark County commercial property tax ~1.1%. Accessible via RTC.
+NV,University of Nevada, Reno,Reno,89557,"89501, 89502, 89503, 89509, 89512",21000,Washoe County commercial property tax ~1.0%. Accessible via RTC RIDE.
+NV,Nevada State College,Henderson,89002,"89011, 89012, 89015",7000,Clark County commercial property tax ~1.1%. Accessible via RTC.
+NV,College of Southern Nevada,North Las Vegas,89030,"89030, 89031, 89032, 89108, 89115",34000,Clark County commercial property tax ~1.1%. Accessible via RTC.
+NV,Great Basin College,Elko,89801,"89801",4000,Elko County commercial property tax ~0.9%. Limited public transit.
+NV,Western Nevada College,Carson City,89703,"89701, 89706",3500,Carson City commercial property tax ~1.0%. Accessible via JAC.
+NV,Truckee Meadows Community College,Reno,89512,"89503, 89508, 89509",11000,Washoe County commercial property tax ~1.0%. Accessible via RTC RIDE.

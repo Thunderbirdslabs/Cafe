@@ -1,7 +1,7 @@
-State,University Name,City,ZIP Code,Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-NE,University of Nebraska-Lincoln,Lincoln,68588,"25,000",Lancaster County commercial property tax ~2.0%. Accessible via StarTran.
-NE,University of Nebraska Omaha,Omaha,68182,"15,000",Douglas County commercial property tax ~2.2%. Accessible via Omaha Metro.
-NE,University of Nebraska at Kearney,Kearney,68849,"6,000",Buffalo County commercial property tax ~1.8%. Accessible via KRAN.
-NE,Wayne State College,Wayne,68787,"4,000",Wayne County commercial property tax ~1.7%. Limited public transit.
-NE,Chadron State College,Chadron,69337,"2,500",Dawes County commercial property tax ~1.6%. Limited public transit.
-NE,Peru State College,Peru,68421,"2,000",Nemaha County commercial property tax ~1.7%. Limited public transit.
+State,University Name,City,ZIP Code,Surrounding ZIPs (5-mile radius),Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
+NE,University of Nebraska-Lincoln,Lincoln,68588,"68502, 68503, 68504, 68508, 68510, 68521",25000,Lancaster County commercial property tax ~2.0%. Accessible via StarTran.
+NE,University of Nebraska Omaha,Omaha,68182,"68102, 68104, 68105, 68106, 68111, 68131, 68132",15000,Douglas County commercial property tax ~2.2%. Accessible via Omaha Metro.
+NE,University of Nebraska at Kearney,Kearney,68849,"68845, 68847",6000,Buffalo County commercial property tax ~1.8%. Accessible via KRAN.
+NE,Wayne State College,Wayne,68787,"68787",4000,Wayne County commercial property tax ~1.7%. Limited public transit.
+NE,Chadron State College,Chadron,69337,"69337",2500,Dawes County commercial property tax ~1.6%. Limited public transit.
+NE,Peru State College,Peru,68421,"68305, 68421",2000,Nemaha County commercial property tax ~1.7%. Limited public transit.
