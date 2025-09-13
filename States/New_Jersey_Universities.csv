@@ -1,12 +1,12 @@
-State,University Name,City,ZIP Code,Surrounding ZIPs (5-mile radius),Enrollment (approx.),Notes (Accessibility, Taxes, etc.)
-NJ,Rutgers University-New Brunswick,New Brunswick,08901,"08817, 08820, 08854, 08901, 08902, 08904",50000,Middlesex County commercial property tax ~2.8%. Accessible via NJ Transit.
-NJ,Montclair State University,Montclair,07043,"07003, 07004, 07012, 07042, 07043",21000,Essex County commercial property tax ~3.0%. Accessible via NJ Transit.
-NJ,Rowan University,Glassboro,08028,"08028, 08071, 08080",20000,Gloucester County commercial property tax ~3.2%. Accessible via NJ Transit.
-NJ,The College of New Jersey,Ewing,08628,"08618, 08628, 08638",8000,Mercer County commercial property tax ~2.9%. Accessible via NJ Transit.
-NJ,Kean University,Union,07083,"07033, 07083, 07204, 07208",16000,Union County commercial property tax ~3.1%. Accessible via NJ Transit.
-NJ,New Jersey Institute of Technology,Newark,07102,"07102, 07103, 07104, 07105, 07107, 07108",12000,"Essex County commercial property tax ~3.0%. Accessible via NJ Transit, PATH."
-NJ,William Paterson University,Wayne,07470,"07424, 07470, 07502, 07512",10000,Passaic County commercial property tax ~3.0%. Accessible via NJ Transit.
-NJ,New Jersey City University,Jersey City,07305,"07302, 07304, 07305",8000,"Hudson County commercial property tax ~2.5%. Accessible via PATH, Hudson-Bergen Light Rail."
-NJ,Stockton University,Galloway,08205,"08201, 08205, 08215, 08232, 08241",10000,Atlantic County commercial property tax ~2.7%. Accessible via NJ Transit.
-NJ,Ramapo College of New Jersey,Mahwah,07430,"07430, 07446, 07458",6000,Bergen County commercial property tax ~2.4%. Accessible via NJ Transit.
-NJ,Thomas Edison State University,Trenton,08608,"08608, 08609, 08611, 08618, 08629",10000,Mercer County commercial property tax ~2.9%. Accessible via NJ Transit.
+State,University Name,City,ZIP Code,"Surrounding ZIPs (5-mile radius)","Enrollment (approx.)","Notes (Accessibility, Taxes, etc.)","Nearby Properties"
+NJ,Rutgers University-New Brunswick,New Brunswick,08901,"08817, 08820, 08854, 08901, 08902, 08904",50000,Middlesex County commercial property tax ~2.8%. Accessible via NJ Transit.,"391 George St, New Brunswick, NJ (2,000 sq ft) - https://www.loopnet.com/Listing/391-George-St-New-Brunswick-NJ/26593165/; 100-102 Church St, New Brunswick, NJ (1,700 sq ft) - https://www.crexi.com/lease/properties/906236/new-jersey-100-102-church-street"
+NJ,Montclair State University,Montclair,07043,"07003, 07004, 07012, 07042, 07043",21000,Essex County commercial property tax ~3.0%. Accessible via NJ Transit.,"50 Church St, Montclair, NJ (1,750 sq ft) - https://www.loopnet.com/Listing/50-Church-St-Montclair-NJ/24185785/; 10 S Fullerton Ave, Montclair, NJ (2,000 sq ft) - https://www.crexi.com/lease/properties/893113/new-jersey-fully-built-out-restaurant-in-montclair-nj"
+NJ,Rowan University,Glassboro,08028,"08028, 08071, 08080",20000,Gloucester County commercial property tax ~3.2%. Accessible via NJ Transit.,""
+NJ,The College of New Jersey,Ewing,08628,"08618, 08628, 08638",8000,Mercer County commercial property tax ~2.9%. Accessible via NJ Transit.,""
+NJ,Kean University,Union,07083,"07033, 07083, 07204, 07088",16000,Union County commercial property tax ~3.1%. Accessible via NJ Transit.,""
+NJ,New Jersey Institute of Technology,Newark,07102,"07102, 07103, 07104, 07105, 07107, 07108",12000,"Essex County commercial property tax ~3.0%. Accessible via NJ Transit, PATH.","55 Halsey St, Newark, NJ (1,914 sq ft) - https://www.loopnet.com/Listing/55-Halsey-St-Newark-NJ/26456082/"
+NJ,William Paterson University,Wayne,07470,"07424, 07470, 07502, 07512",10000,Passaic County commercial property tax ~3.0%. Accessible via NJ Transit.,""
+NJ,New Jersey City University,Jersey City,07305,"07302, 07304, 07305",8000,"Hudson County commercial property tax ~2.5%. Accessible via PATH, Hudson-Bergen Light Rail.",""
+NJ,Stockton University,Galloway,08205,"08201, 08205, 08215, 08232, 08241",10000,Atlantic County commercial property tax ~2.7%. Accessible via NJ Transit.,""
+NJ,Ramapo College of New Jersey,Mahwah,07430,"07430, 07446, 07458",6000,Bergen County commercial property tax ~2.4%. Accessible via NJ Transit.,""
+NJ,Thomas Edison State University,Trenton,08608,"08608, 08609, 08611, 08618, 08629",10000,Mercer County commercial property tax ~2.9%. Accessible via NJ Transit.,""
